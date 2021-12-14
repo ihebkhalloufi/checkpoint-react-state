@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+ .image{
+margin-bottom: 50px;
+box-shadow: 0 0 5px 5px rgb(49, 47, 47);
+ }
+ .bio{
+  text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87
+ }
+ #fullname{
+   margin-bottom: 50px;
+   text-shadow: 0.1em 0.1em 0.2em black
+ }
+
+  .Timer{
+border: 320px;
+border-color: red;
+
+  }
+
